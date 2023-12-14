@@ -1,0 +1,20 @@
+{
+  "name": "aoc",
+  "version": "1.0.0",
+  "description": "Advent of Code challenges",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahmetasevic/aoc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahmetasevic/aoc/issues"
+  },
+  "homepage": "https://github.com/rahmetasevic/aoc#readme"
+}
