@@ -1,2 +1,2 @@
 # AOC
-Advent of Code challenges for year 2023.
+Advent of Code challenges for year 2023
